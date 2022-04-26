@@ -1,39 +1,17 @@
 ## Documentation
 How to create own website with Github pages
-1. 
 
-You can use the [editor on GitHub](https://github.com/70y-ali/70y-ali.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Create repository
+1. If you don't have github account, sign up [github](https://github.com/) it! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Let's make project
 
-### Markdown
+Sure, you have a github account [create github account](https://github.com/)   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Create new repository
+2. Go to repository Settings and scroll down to the "GitHub Pages" section. Select "master branch" under the "Source"
+3. Your repository already created a new one. 🎉
 
-```markdown
-Syntax highlighted code block
+### Support 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/70y-ali/70y-ali.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+if you want to edit your page, you can check it [documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
