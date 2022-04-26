@@ -1,4 +1,6 @@
-## Welcome to my personal portofolio
+## Documentation
+How to create own website with Github pages
+1. 
 
 You can use the [editor on GitHub](https://github.com/70y-ali/70y-ali.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
